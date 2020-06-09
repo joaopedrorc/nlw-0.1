@@ -1,9 +1,7 @@
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+</h1>
 
-                                       <img src="public/assets/logo.svg"
-                                       />
-                                       ![GitHub Logo](public/assets/logo.svg)
-
-
-
+---
 
 **Next Level Week** - 0.1 -> **NLW** Projeto: Ecoleta proporcionado pela @Rocketseat :rocket: [Rocketseat](http://github.com)
