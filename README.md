@@ -10,8 +10,11 @@
 
 </h4>
 <p align="center">	
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/5626pedro/nlw-1.0">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/5626pedro/nlw-0.1">
 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-cordeiro-a2b97319a/">
+    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+  </a>
 </p>
 
 **Next Level Week** - 0.1 -> **NLW** Projeto: Ecoleta proporcionado pela @Rocketseat :rocket: [Rocketseat](http://github.com)
