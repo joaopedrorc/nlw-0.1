@@ -1,5 +1,5 @@
 
-      ![Ecoleta Logo](public/assets/logo.svg)
+                              [Ecoleta Logo](public/assets/logo.svg)
 ---
 
 
