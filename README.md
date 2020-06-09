@@ -1,6 +1,7 @@
 
-                                       <img src="public/assets/logo.svg"/>
---- 
+                                       <img src="public/assets/logo.svg"
+                                       />
+                                       ![GitHub Logo](public/assets/logo.svg)
 
 
 
