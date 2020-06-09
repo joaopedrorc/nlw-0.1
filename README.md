@@ -36,11 +36,11 @@ A partir da metodológia da Rocketseat podemos aprender sober novas ferramentas,
 - Dia 4: Até 2 anos em 2 meses 04/06 - :heavy_check_mark:
 - Dia 5: Milha extra 05/06 - :heavy_check_mark: 
 
-## 💻 Project
+## 💻 Projeto
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
 This project was developed with the following technologies:
 
