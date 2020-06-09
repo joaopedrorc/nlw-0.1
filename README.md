@@ -1,4 +1,6 @@
-<img src="public/assets/logo.svg"/>
+<img src="public/assets/logo.svg"
+      alt="Logo"
+      align-items="center"/>
 
 
 
