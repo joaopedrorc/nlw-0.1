@@ -47,6 +47,7 @@ This project was developed with the following technologies:
 - [Node.js][nodejs]
 - [JavaScript][javascript]
 
+
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
