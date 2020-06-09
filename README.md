@@ -47,6 +47,27 @@ This project was developed with the following technologies:
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+Para fazer uma cópia dessa aplicação, você precisará [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [npm](https://www.npmjs.com/get-npm) (npm é baixado com o Node.js) instalados no seu computador.
+
+From your command line:
+
+### Install Front-end
+
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielObara/NLW-1.0
+
+# Go into the repository
+$ cd NLW-1.0/frontent
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# running on port 3000
+```
 
 ## 🤔 Como contribuir
 
