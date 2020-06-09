@@ -45,7 +45,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 This project was developed with the following technologies:
 
 - [Node.js][nodejs]
--[JavaScript][javascript]
+- [JavaScript][javascript]
 
 ## 🤔 Como contribuir
 
