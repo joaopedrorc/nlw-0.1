@@ -4,10 +4,7 @@
 
 <h4 align="center"> 
 	:heavy_check_mark: NextLevelWeek 1.0 🚀 Done! :heavy_check_mark:
-</h4>
 
-
-</h4>
 <p align="center">	
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-cordeiro-a2b97319a/">
     <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-JoãoPedroCordeiro-%2304D361">
@@ -42,14 +39,14 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 ## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Para fazer uma cópia dessa aplicação, você precisará [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [npm](https://www.npmjs.com/get-npm) (npm é baixado com o Node.js) instalados no seu computador.
 
-From your command line:
+Pelo Seu Terminal: 
 
 ### Instalar Front-end
 
