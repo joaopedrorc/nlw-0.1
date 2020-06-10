@@ -51,20 +51,20 @@ Para fazer uma cópia dessa aplicação, você precisará [Git](https://git-scm.
 
 From your command line:
 
-### Install Front-end
+### Instalar Front-end
 
 ```bash
 # Clone this repository
 $ git clone https://github.com/DanielObara/NLW-1.0
 
 # Go into the repository
-$ cd NLW-1.0/frontent
+$ cd nlw
 
 # Install dependencies
-$ yarn install
+$ npm install
 
 # Run
-$ yarn start
+$ npm start
 
 # running on port 3000
 ```
