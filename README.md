@@ -52,7 +52,7 @@ Pelo Seu Terminal:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/5626pedro/nlw-0.1
 
 # Go into the repository
 $ cd nlw
